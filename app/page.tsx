@@ -189,7 +189,7 @@ export default function SevenOhOneTires() {
           <div>
             <div className="text-white/60 text-sm">Hours</div>
             <div className="mt-2 text-sm">
-              Open 7 days a week, 9am–5pm (available for emergency calls)
+              Available 24/7 (Emergency tire service is subject to tire availability) 
             </div>
           </div>
           <div>
