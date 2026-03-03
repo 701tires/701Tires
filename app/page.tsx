@@ -189,7 +189,7 @@ export default function SevenOhOneTires() {
           <div>
             <div className="text-white/60 text-sm">Hours</div>
             <div className="mt-2 text-sm">
-              Available 24/7 (Emergency tire service is subject to tire availability) 
+              Available 24/7 (24/7 tire service is subject to tire availability) 
             </div>
           </div>
           <div>
